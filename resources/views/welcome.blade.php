@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel lb
+                    Laravel lbs
                 </div>
 
                 <div class="links">
