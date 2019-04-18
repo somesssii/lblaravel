@@ -6,3 +6,8 @@
     composer install --no-dev
     php artisan migrate --force
 @endtask
+
+@error
+    echo "$task failed";
+    exit(1);
+@enderror
